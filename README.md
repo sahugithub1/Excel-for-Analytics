@@ -1,4 +1,4 @@
-# Product-sales-data-analysis-project
+# Product sales data analysis project with Excel
 
 The board is asking to see how volume looked in Q2. I got some data (attached), but didn’t have a chance to pull anything together and was hoping you could take a stab at it.
 
