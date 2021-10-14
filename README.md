@@ -11,4 +11,4 @@ Q2 YoY growth slowed from Q1 growth of 4% down to 2.7% or ~13k in volume primari
 (7k) volume or 55% of the decline from loss of two customers in LATAM driving overall growth for region from 9% down im Q1 to flat in Q2 YoY
 NAM client onboarding in Q2 2020 anniversaried in Q2 2021, slowing perceived growth and amplifying Q1 growth by ~5k units or 1%
 
-![image info](/home/dell/Desktop/Product sales data analysis project/Product sales data analysis project-1.png)
+![image info](./Product sales data analysis project-1.png)
