@@ -14,3 +14,5 @@ NAM client onboarding in Q2 2020 anniversaried in Q2 2021, slowing perceived gro
 📝 WRITTEN BY
 
  ASHISH SAHU
+ 
+ ![Product sales data analysis project](https://user-images.githubusercontent.com/91025550/137530352-0759a593-313c-4b83-b951-8380f0df86d6.png)
