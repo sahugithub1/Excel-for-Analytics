@@ -46,9 +46,7 @@ Then text to column   Alt+A+E+F
 
 ## Reformatting dates and values from text
 Reformat this ctrl + spacebar for selecting 
-Alt+H+O+I
-Alt+H+K
-Alt+H+9
+Alt+H+O+I, Alt+H+K, Alt+H+9
 
 ## Removing Duplicate
 Alt+A+M
