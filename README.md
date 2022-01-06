@@ -9,14 +9,14 @@ I think they just want to see Q2 2021 volume by region and wanted to know if eve
 
 ## Shortcuts formula
 I used these Alt shortcuts for productive work during this project.
-Move tab right   ctrl+Page down
-Move tab left    ctrl+page up
-Move to end of dataset   ctrl+end
-Move to top of sheet (A1)   ctrl+ Home
-Move right across full cell   ctrl+ right arrow
-Move down across full cell   ctrl+ down arrow
-Select right across full cells   ctrl+shift+right arrow
-Select down to end of cells   ctrl+shift+end
+1. Move tab right   ctrl+Page down
+2. Move tab left    ctrl+page up
+3. Move to end of dataset   ctrl+end
+4. Move to top of sheet (A1)   ctrl+ Home
+5. Move right across full cell   ctrl+ right arrow
+6. Move down across full cell   ctrl+ down arrow
+7. Select right across full cells   ctrl+shift+right arrow
+8. Select down to end of cells   ctrl+shift+end
 
 ## Data cleaning
 
